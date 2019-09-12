@@ -10,7 +10,7 @@ By default, Matcher uses the `AND` comparison strategy, but you can set the filt
 package matcher
 
 import (
-	"github.com/citilinkru/libudev/types"
+	"github.com/oakmound/libudev/types"
 )
 
 const (

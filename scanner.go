@@ -13,12 +13,13 @@ package libudev
 import (
 	"bufio"
 	"bytes"
-	"github.com/citilinkru/libudev/types"
 	"fmt"
 	"io/ioutil"
 	"os"
 	"path/filepath"
 	"strings"
+
+	"github.com/oakmound/libudev/types"
 )
 
 // Scanner structure of the device scanner.

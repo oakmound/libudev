@@ -1,16 +1,16 @@
 # libudev
 Golang native implementation Udev library
 
-[![Build Status](https://travis-ci.org/citilinkru/libudev.svg?branch=master)](https://travis-ci.org/citilinkru/libudev)
-[![Coverage Status](https://coveralls.io/repos/github/citilinkru/libudev/badge.svg?branch=master)](https://coveralls.io/github/citilinkru/libudev?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/citilinkru/libudev)](https://goreportcard.com/report/github.com/citilinkru/libudev)
-[![GoDoc](https://godoc.org/github.com/citilinkru/libudev?status.svg)](https://godoc.org/github.com/citilinkru/libudev)
-[![GitHub release](https://img.shields.io/github/release/citilinkru/libudev.svg)](https://github.com/citilinkru/libudev/releases)
+[![Build Status](https://travis-ci.org/oakmound/libudev.svg?branch=master)](https://travis-ci.org/oakmound/libudev)
+[![Coverage Status](https://coveralls.io/repos/github/oakmound/libudev/badge.svg?branch=master)](https://coveralls.io/github/oakmound/libudev?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/oakmound/libudev)](https://goreportcard.com/report/github.com/oakmound/libudev)
+[![GoDoc](https://godoc.org/github.com/oakmound/libudev?status.svg)](https://godoc.org/github.com/oakmound/libudev)
+[![GitHub release](https://img.shields.io/github/release/oakmound/libudev.svg)](https://github.com/oakmound/libudev/releases)
 
 
 Installation
 ------------
-    go get github.com/citilinkru/libudev
+    go get github.com/oakmound/libudev
 
 Usage
 -----
@@ -57,7 +57,7 @@ Requirements
 Documentation
 -------------
 
-You can read package documentation [here](http:godoc.org/github.com/citilinkru/libudev) or read tests.
+You can read package documentation [here](http:godoc.org/github.com/oakmound/libudev) or read tests.
 
 Testing
 -------
